@@ -15,4 +15,5 @@ Small - Just - Started
 
 Key words(1 Year have Search Volume (10k-100k-1M)
 alex arduino projects, arduino , arduino uno, arduino ide, arduino projects, nodemcu, nodemcu esp8266,
-esp8266, esp32 ,esp32 cam, esp32 arduino, iot, internet of things, blynk, iot projects, diy electronics, embedded firmware
+esp8266, esp32 ,esp32 cam, esp32 arduino, iot, internet of things, blynk, iot projects, embedded systems, 
+electronics, microcontrollers,diy
