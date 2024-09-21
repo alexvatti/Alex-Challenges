@@ -47,3 +47,10 @@
 3. Through Upwork - Mail Communication: "I checked your Upwork profile and have some projects I can't take on due to my thesis. I'm looking for a freelance partner for the next three months—let me know if you're interested in collaborating!"
 4. No Clarity -  No Communiation - No Progress - No Commitment.
    
+## Opportunity 8:
+1. Persistent Systems in Hyderabad
+2. kritika_purswani@persistent.com
+3. Application for AI/ML Engineer Position - Hyderabad
+4. What'up  - Mr.Omkar
+5. Crafted Message - Shared Mail/Message - Waiting for the Update.
+   
