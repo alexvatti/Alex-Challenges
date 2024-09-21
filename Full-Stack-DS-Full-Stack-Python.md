@@ -65,7 +65,7 @@ These cover the essentials of Full Stack Data Science in a streamlined manner.
 10. **Tortoise-TTS** - Text-to-speech generation for high-quality voice synthesis.
 
 
-Here’s a **top 15 list of Full Stack Python packages** with **tasks vs packages** in one line each:
+# Here’s a **top 15 list of Full Stack Python packages** with **tasks vs packages** in one line each:
 
 1. **Web Development** - Use **Django** for building comprehensive web applications.
 2. **Lightweight Web Apps** - Use **Flask** for creating simple, flexible web applications.
@@ -84,9 +84,9 @@ Here’s a **top 15 list of Full Stack Python packages** with **tasks vs package
 15. **Real-time Communication** - Use **Socket.IO** with Python for real-time, bidirectional communication in web apps.
 
 
-Here’s a **top 10 list of AWS and Azure services** for **ML/DL/GenAI** with one line each:
+# Here’s a **top 10 list of AWS and Azure services** for **ML/DL/GenAI** with one line each:
 
-### **AWS Services (ML/DL/GenAI)**:
+## **AWS Services (ML/DL/GenAI)**:
 1. **Amazon SageMaker** - End-to-end platform for building, training, and deploying ML models.
 2. **AWS Lambda** - Serverless compute service for running ML inference at scale.
 3. **AWS Deep Learning AMIs** - Pre-configured AMIs with deep learning frameworks for model training.
@@ -98,7 +98,7 @@ Here’s a **top 10 list of AWS and Azure services** for **ML/DL/GenAI** with on
 9. **Amazon Forecast** - Time-series forecasting using ML for demand and revenue prediction.
 10. **Amazon Textract** - Extract structured data from scanned documents using deep learning.
 
-### **Azure Services (ML/DL/GenAI)**:
+## **Azure Services (ML/DL/GenAI)**:
 1. **Azure Machine Learning** - Comprehensive platform for training, deploying, and managing ML models.
 2. **Azure Cognitive Services** - Pre-built APIs for vision, speech, language, and decision-making tasks.
 3. **Azure Bot Services** - Build, test, and deploy intelligent bots for various platforms.
