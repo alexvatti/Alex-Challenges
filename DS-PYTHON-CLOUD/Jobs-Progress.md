@@ -49,7 +49,7 @@
    
 ## Opportunity 8:
 1. Persistent Systems in Hyderabad
-2. kritika_purswani@persistent.com
+2. Kritika Purswani
 3. Application for AI/ML Engineer Position - Hyderabad
 4. What'up  - Mr.Omkar
 5. Crafted Message - Shared Mail/Message - Waiting for the Update.
