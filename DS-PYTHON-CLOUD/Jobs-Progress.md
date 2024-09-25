@@ -1,4 +1,4 @@
-# Python , EDA, Machine Learning , Deep Learning , Generative AI, SQL ,  CLOUD , Flask & Streamlit Position
+# Data Science (Python , EDA, Machine Learning , Deep Learning , Generative AI, SQL ,  CLOUD , Flask & Streamlit , HTML, CSS ,FAST API )Position
 
 ## Opportunity 1:
 
